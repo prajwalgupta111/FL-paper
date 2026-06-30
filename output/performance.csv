@@ -1,0 +1,5 @@
+Method,Throughput,Latency,PacketLoss,SpectralEfficiency,Fairness,Handovers,Failures
+Reactive Scheduling,8.18,37.66,1.0,1.48,0.599,535,69
+Centralized ML,9.93,14.17,0.49,2.05,0.611,535,62
+Local Learning,8.37,16.13,0.54,1.78,0.596,535,65
+Proposed FL,13.95,5.36,0.25,3.36,0.623,535,51

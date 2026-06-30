@@ -1,0 +1,4 @@
+Prediction Horizon,Accuracy (%),RMSE,MAE
+1 Hour,96.4,2.3,1.7
+4 Hours,93.8,3.6,2.8
+24 Hours,90.7,5.8,4.2
